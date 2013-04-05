@@ -1,7 +1,7 @@
 Panopto-Java-Util
 =================
 
-This is a library of commonly used stuff throughout the various command line tools
+This is a library of commonly used stuff throughout the various command line tools, you will need to compile this set of code as a jar which you can then include as a library in the other command line tools. At the very least it saves you having to have AXIS stub files all over the place!
 
 How to create your own axis stubs
 ---------------------------------
